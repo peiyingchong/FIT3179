@@ -1,10 +1,23 @@
-State,Year 2021
-New South Wales,54
-Victoria,18
-Queensland,57
-South Australia,13
-Western Australia,48
-Tasmania,4
-Northern Territory,24
-Australian Capital Territory,1
-Australia,219
+State,Year 2021,Population 2021 ('000),Suicide Percentage per '000,Rounded
+New South Wales,54,8189.3,0.659397018,0.66
+Victoria,18,6649.2,0.270709258,0.27
+Queensland,57,5221.2,1.091703057,1.09
+South Australia,13,1773.2,0.73313783,0.73
+Western Australia,48,2681.6,1.789976134,1.79
+Tasmania,4,541.5,0.738688827,0.74
+Northern Territory,24,246.3,9.744214373,9.74
+Australian Capital Territory,1,432.3,0.231320842,0.23
+Australia,219,25739.3,0.850838989,0.85
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
