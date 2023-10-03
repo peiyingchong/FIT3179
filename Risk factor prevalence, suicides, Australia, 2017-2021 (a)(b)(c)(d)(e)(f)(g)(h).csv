@@ -1,18 +1,6 @@
-"Risk factor prevalence, suicides, Australia, 2017-2021 (a)(b)(c)(d)(e)(f)(g)(h)",,,,,,,,,,
-,2017 No.,2017 (%),2018 No.,2018 (%),2019 No.,2019 (%),2020 No.,2020 (%),2021 No.,2021 (%)
-Total suicides,"3,290",100,"3,205",100,"3,358",100,"3,139",100,"3,144",100
-Total suicides with reported mental and behavioural disorder (e),"2,366",71.9,"2,253",70.3,"2,317",69,"2,058",65.6,"1,975",62.8
-Total suicides with reported natural disease (f),"1,746",53.1,"1,865",58.2,"1,974",58.8,"1,737",55.3,"1,721",54.7
-Total suicides with reported psychosocial risk factors (g)(h),"2,338",71.1,"2,348",73.3,"2,405",71.6,"2,107",67.1,"2,050",65.2
-Total suicides with any associated cause reported,"3,191",97,"3,021",94.3,"3,173",94.5,"2,849",90.8,"2,820",89.7
-,,,,,,,,,,
-"a. To best reflect a more accurate time series, deaths due to suicide are presented by registration year. As a result, some totals may not equal the sum of their components and suicide data presented in this publication may not match that previously published by reference year. Care needs to be taken when interpreting data derived from Victorian coroner referred deaths including suicide. See Technical note: Victorian additional registrations (2013-2016)  in the methodology for more information.",,,,,,,,,,
-"b. All causes of death data from 2006 onward are subject to a revisions process - once data for a reference year are 'final', they are no longer revised. Affected data in this table are: 2018 (final), 2019 (revised), 2020 and 2021 (preliminary). See the Data quality section of the methodology and Causes of Death Revisions, 2018 Final Data (Technical Note) and 2019 Revised Data (Technical Note) in Causes of Death, Australia, 2020 (cat. no. 3303.0).",,,,,,,,,,
-c. The data presented for intentional self-harm includes ICD-10 codes X60-X84 and Y87.0. Care needs to be taken in interpreting figures relating to intentional self-harm. See the Deaths due to intentional self-harm (suicide) section of the methodology in this publication.,,,,,,,,,,
-"d. Data in this table indicates the number of deaths with each specified risk factor recorded. Risk factors may not be mutually exclusive, and therefore people with multiple psychosocial factors recorded will be counted in more than one category.",,,,,,,,,,
-e. Mental and behavioural disorder includes ICD-10 codes F00-F99.,,,,,,,,,,
-"f. Natural disease includes all disease and health related conditions with the exclusion of mental and behavioural disorders, injuries, external causes and some terminal conditions (G93, J96, I46, I49). Includes ICD-10 codes A00-E90, G00-R99, U07.1-U07.2, U08-U09.",,,,,,,,,,
-"g. Psychosocial risk factors include F41.8 as this code was identified as a COVID-19 pandemic related risk factor. See Intentional self-harm deaths (Suicide) in Australia 2020, and later in this section, for more information",,,,,,,,,,
-"h. For further information on psychosocial risk factors as associated causes, see Associated causes of death in mortality in Causes of Death, Australia, 2019.",,,,,,,,,,
-,,,,,,,,,,
-"Source: Australian Bureau of Statistics, Causes of Death, Australia 2021",,,,,,,,,,
+
+Risk factor prevalence,2017 No.,2017 (%),2018 No.,2018 (%),2019 No.,2019 (%),2020 No.,2020 (%),2021 No.,2021 (%)
+Total suicides with reported mental and behavioural disorder,2,366,71.9,2,253,70.3,2,317,69,2,058,65.6,1,975,62.8
+Total suicides with reported natural disease,1,746,53.1,1,865,58.2,1,974,58.8,1,737,55.3,1,721,54.7
+Total suicides with reported psychosocial risk factors,2,338,71.1,2,348,73.3,2,405,71.6,2,107,67.1,2,050,65.2
+Total suicides with any associated cause reported,3,191,97,3,021,94.3,3,173,94.5,2,849,90.8,2,820,89.7
